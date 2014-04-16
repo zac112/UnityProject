@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f327f9bf60147a4429cb5ad175b5af41
+guid: 79ad3b43f5581e348b18b7ce60944af7
 TextureImporter:
   serializedVersion: 2
   mipmaps:
@@ -30,16 +30,61 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: .5, y: .5}
-  spritePixelsToUnits: 64
+  spritePixelsToUnits: 100
   alphaIsTransparency: 1
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: Player_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 202
+        width: 28
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Player_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 202
+        width: 50
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Player_2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 202
+        width: 28
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Player_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 102
+        width: 41
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Player_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 102
+        width: 41
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
   spritePackingTag: 
   userData: 
