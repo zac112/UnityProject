@@ -41,7 +41,7 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: Kolikot_0
+    - name: Kolikko_0
       rect:
         serializedVersion: 2
         x: 0
@@ -50,7 +50,7 @@ TextureImporter:
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
-    - name: Kolikot_1
+    - name: Kolikko_1
       rect:
         serializedVersion: 2
         x: 100
@@ -59,7 +59,7 @@ TextureImporter:
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
-    - name: Kolikot_2
+    - name: Kolikko_2
       rect:
         serializedVersion: 2
         x: 200
